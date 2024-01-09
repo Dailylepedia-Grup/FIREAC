@@ -8,20 +8,20 @@
 
 FIREAC.Webhooks = {
     -- Ban Webhook: Receive ban-related logs.
-    Ban        = "",
+    Ban        = "https://discord.com/api/webhooks/1194337889186762793/6VMOca0pY1g3xBUKyKuNLWiHAiYT9Cpc_BqxYUJvXKCQ2LlLVS_kMmB_2dqJEL917GY6",
 
     -- Error Webhook: Receive error logs.
-    Error      = "",
+    Error      = "https://discord.com/api/webhooks/1194337889186762793/6VMOca0pY1g3xBUKyKuNLWiHAiYT9Cpc_BqxYUJvXKCQ2LlLVS_kMmB_2dqJEL917GY6",
 
     -- Connect Webhook: Receive connection-related logs.
-    Connect    = "",
+    Connect    = "https://discord.com/api/webhooks/1194337889186762793/6VMOca0pY1g3xBUKyKuNLWiHAiYT9Cpc_BqxYUJvXKCQ2LlLVS_kMmB_2dqJEL917GY6",
 
     -- Disconnect Webhook: Receive disconnection-related logs.
-    Disconnect = "",
+    Disconnect = "https://discord.com/api/webhooks/1194337889186762793/6VMOca0pY1g3xBUKyKuNLWiHAiYT9Cpc_BqxYUJvXKCQ2LlLVS_kMmB_2dqJEL917GY6",
 
     -- Explosion Webhook: Receive explosion-related logs.
-    Explosion  = "",
+    Explosion  = "https://discord.com/api/webhooks/1194337889186762793/6VMOca0pY1g3xBUKyKuNLWiHAiYT9Cpc_BqxYUJvXKCQ2LlLVS_kMmB_2dqJEL917GY6",
 
     -- Screenshot Webhook: Receive screenshot-related logs.
-    ScreenShot = "",
+    ScreenShot = "https://discord.com/api/webhooks/1194337889186762793/6VMOca0pY1g3xBUKyKuNLWiHAiYT9Cpc_BqxYUJvXKCQ2LlLVS_kMmB_2dqJEL917GY6",
 }
