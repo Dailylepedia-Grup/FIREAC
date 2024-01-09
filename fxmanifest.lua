@@ -1,5 +1,5 @@
--- FIREAC (https://github.com/AmirrezaJaberi/FIREAC)
--- Copyright 2022-2024 by Amirreza Jaberi (https://github.com/AmirrezaJaberi)
+-- FIREAC HIGHCLASS
+-- Copyright 2022-2024 by M Tri Hamdani (https://github.com/Dailylepedia-Grup)
 -- Licensed under the GNU Affero General Public License v3.0
 
 -- Main Settings
@@ -7,8 +7,8 @@ fx_version 'cerulean'
 game 'gta5'
 
 -- Project Information
-author 'Amirreza Jaberi'
-description 'FIREAC'
+author 'M Tri Hamdani'
+description 'FIREAC HIGHCLASS'
 version '7.1.0'
 
 -- Web UI Page
