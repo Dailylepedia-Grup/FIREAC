@@ -11,7 +11,7 @@ FIREAC.Version      = "7.1.0"
 FIREAC.ServerConfig = {
     -- Server Name: Set your server name here.
     -- Example: Name = "My Awesome Server"
-    Name  = "YOUR SERVER NAME",
+    Name  = "HIGHCLASS ROLEPLAY INDONESIA",
 
     -- Server Port: Enter your server port here.
     -- Example: Port = "30120"
@@ -50,8 +50,8 @@ FIREAC.Spawn                    = {
 
 -- Message Settings
 FIREAC.Message                  = {
-    Kick = "⚡️ You've been kicked from the server protection by FIREAC®. Avoid cheating on this server.",
-    Ban  = "⛔️ You've been banned from the server. Please create a support ticket for assistance.",
+    Kick = "⚡️ Anda telah dikeluarkan dari perlindungan server oleh HIGHCLASS®. Hindari kecurangan di server ini.",
+    Ban  = "⛔️ Anda telah dilarang dari server. Silakan buat tiket dukungan untuk mendapatkan bantuan.",
 }
 
 -- Admin Menu Settings
